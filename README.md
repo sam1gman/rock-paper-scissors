@@ -1,0 +1,1 @@
+The code implements a text-based rock-paper-scissors game that allows users to play either against the computer or another player. The game includes colorful text output and ASCII art to make the experience more engaging.
